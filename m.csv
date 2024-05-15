@@ -1,0 +1,80 @@
+Case_id,Criminal_no,Criminal_name,Nick_name,arrest_date,dateofcrime,adress,age,occupation,Birthmark,crimeType,fatherName,gender,wnated
+1,2,"sam singh",sam,01/02/2023,2/01/2023,patia,26,"business ","spot on hand",assault,"raj singh",male,no
+10,12,"muhamad qadri",muham,05/02/2023,05/03/2023,delhi,26,doctor,"cut mark in right hand",assault,"jaydev qadri",male,yes
+11,13,"iqbal qadri",iqbal,05/02/2023,05/03/2023,delhi,26,doctor,"cut mark in right hand",assault,"jaydev qadri",male,yes
+12,14,"rakesh mishra",raku,06/02/2023,05/03/2023,delhi,26,shopkeeper,"mark in right hand",assault,"rahul mishra",male,yes
+13,15,"navi mishra",navi,06/02/2023,05/03/2023,delhi,26,shopkeeper,"mark in right hand",assault,"ishan mishra",male,yes
+14,16,"ishan mishra",navi,08/02/2023,08/03/2023,delhi,26,shopkeeper,"mark in right hand",assault,"navi mishra",male,yes
+15,17,"kanan bennet",rik,09/02/2023,08/03/2023,delhi,26,shopkeeper,"mark in right hand",assault,"dhruv bennet",male,yes
+16,18,"jai biswas",rik,10/02/2023,08/03/2023,delhi,26,shopkeeper,"mark in left hand",assault,"dhruv biswas",male,no
+17,19,"druv biswas",rik,10/02/2023,08/03/2023,delhi,26,teacher,"mark in left hand",assault,"jai biswas",male,no
+18,20,"amar biswas",rik,10/02/2023,08/03/2023,delhi,26,teacher,"mark in left hand",assault,"agasta biswas",male,no
+19,21,"amar hazarika",jim,15/02/2023,04/03/2023,delhi,26,teacher,"mark in left hand",assault,"agasta hazarika",male,no
+2,3,"raj singh",sam,04/02/2023,4/01/2023,patiala,26,"business ","spot on hand",assault,"sam singh",male,no
+20,22,"rohan hazarika",jake,15/02/2023,04/03/2023,delhi,26,teacher,"mark in left hand",assault,"jai hazarika",male,no
+21,5,"daulat rathore",raj,06/02/2023,6/01/2023,"patia bbsr",26,"business ","spot on hand",thief,"raj rathore",male,no
+22,23,"rohan ghosh",tim,15/02/2023,04/03/2023,delhi,27,teacher,"mark in left hand",assault,"raj ghosh",male,no
+23,4,"raj rathore",raj,05/02/2023,6/01/2023,"chandreshekarpur bbsr",26,"business ","spot on hand",thief,"daulat rathore",male,no
+24,24,"tensiz lama",ros,16/03/2023,19/03/2023,delhi,27,teacher,"mark in left hand",rape,"tamia lama",male,no
+25,25,"sahil ahmed",rahul,16/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"shan ahmed",male,no
+26,26,"shan ahmed",rinku,16/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"ameer ahmed",male,no
+27,27,"ameer ahmed",rinku,17/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"anant ahmed",male,no
+28,28,"hamza ahmed",rinku,19/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"anant ahmed",male,no
+29,29,"sam ahmed",rinku,19/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"rinku ahmed",male,no
+30,30,"sam rajput",pinku,20/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"rinku rajput",male,no
+31,31,"shan singh",jimmy,20/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"ajay singh",male,no
+32,32,"ambar singh",jimmy,20/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"ajit singh",male,yes
+33,33,"ajit singh",jimmy,20/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"ambar singh",male,yes
+34,34,"anurag kashyap",ross,20/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"ambar kashyap",male,yes
+35,35,"sam kashyap",ross,20/03/2023,19/03/2023,delhi,27,mechanic,"mark in palm",rape,"anant kashyap",male,no
+36,36,"rohan rao",rohan,24/03/2023,19/03/2023,banglore,28,business,"mark in neck",gambling,"anant rao",male,no
+37,37,"rohan anand",rohan,24/03/2023,19/03/2023,banglore,28,business,"mark in neck",gambling,"anant anand",male,no
+38,38,"anant anand",nick,24/03/2023,19/03/2023,banglore,28,business,"mark in neck",gambling,"sahil anand",male,no
+39,39,"sahil anand",nick,24/03/2023,27/03/2023,banglore,29,business,"mark in neck",gambling,"rahul anand",male,no
+4,6,"rahul raj",rahul,01/02/2023,01/03/2023,patia,26,mechanic,"spot in left hand",thief,"anant raj",male,no
+40,40,"rakesh fatehi",nick,25/03/2023,27/03/2023,banglore,29,business,"mark in leg",gambling,"rahul fatehi",male,no
+41,41,"daulat fatehi",nick,26/03/2023,27/03/2023,bihar,29,business,"mark in leg",fraudalent,"jagdesh fatehi",male,no
+42,42,"mihir kumar",mihir,26/03/2023,27/03/2023,bihar,29,pharmacist,"mark in leg",fraudalent,"jagdesh kumar",male,no
+43,43,"jagdesh kumar",mihir,26/04/2023,27/04/2023,bihar,29,pharmacist,"mark in leg",fraudalent,"mihir kumar",male,no
+44,44,"jagdesh dutta",rit,26/04/2023,27/05/2023,bihar,29,pharmacist,"mark in leg",fraudalent,"mihir dutta",male,no
+45,45,"mayur dutta",rit,26/04/2023,27/05/2023,kolkata,29,shopkeeper,"mark in elbow",fraudalent,"kannan dutta",male,yes
+46,46,"kannan dutta",rit,26/04/2023,27/05/2023,kolkata,29,shopkeeper,"mark in elbow",fraudalent,"mayur dutta",male,yes
+47,47,"sam dutta",rit,26/04/2023,27/05/2023,kolkata,29,shopkeeper,"mark in elbow",fraudalent,"tim dutta",male,yes
+48,48,"tej dutta",rit,26/04/2023,27/05/2023,kolkata,29,doctor,"mark in elbow",scam,"akshit dutta",male,yes
+49,49,"akshit dutta",rit,22/04/2023,27/05/2023,kolkata,29,doctor,"mark in elbow",scam,"tej dutta",male,yes
+5,7,"anant raj",rahul,03/02/2023,04/03/2023,patia,26,mechanic,"spot in right hand",thief,"rahul raj",male,no
+50,50,"rupinder dutta",rit,22/04/2023,27/05/2023,kolkata,29,doctor,"mark in elbow",scam,"chander dutta",male,yes
+51,51,"lara dutta",lara,22/04/2023,27/05/2023,kolkata,29,doctor,"mark in elbow",scam,"chander dutta",female,yes
+52,52,"lara singh",lara,22/04/2023,27/05/2023,kolkata,29,doctor,"mark in elbow",scam,"chander singh",female,no
+53,53,"kashvi dutta",lara,22/04/2023,27/05/2023,delhi,35,doctor,"mark in elbow",scam,"rajesh dutta",male,yes
+54,54,"tanya dutta",lara,22/04/2023,27/05/2023,delhi,35,business,"mark in neck",scam,"anurag dutta",female,no
+55,55,"anila singh",simi,22/06/2023,27/06/2023,delhi,29,doctor,"mark in elbow","false allegation","tanay singh",female,no
+56,56,"rimi goyal",simi,22/06/2023,22/06/2023,delhi,35,doctor,"mark in elbow","false allegation","tanay goyal",female,no
+57,57,"simran goyal",simi,22/06/2023,22/06/2023,delhi,35,doctor,"mark in elbow","false allegation","tanay goyal",female,no
+58,58,"simran kaur",simi,22/06/2023,22/06/2023,delhi,36,doctor,"mark in elbow","false allegation","tanay kaur",female,no
+59,59,"akshita kaur",simi,22/06/2023,22/06/2023,mumbai,36,model,"mark in elbow","false allegation","rahul kaur",female,no
+6,8,"anant dey",rahul,03/02/2023,04/03/2023,patia,26,doctor,"cut mark in hand",assault,"rahul dey",male,no
+60,60,"jessica kaur",simi,22/06/2023,22/06/2023,mumbai,36,model,"mark in elbow","false allegation","rakesh kaur",female,no
+61,61,"jhanvi talukdar",jhanu,05/12/2023,12/09/2023,kolkata,20,student,"mole in left side of the cheek","False allegation","ashitosh talukdar",female,no
+62,62,"sulagna talukdar",sullu,05/12/2023,12/09/2023,kolkata,20,student,"scar in left arm","False allegation","abhigyan talukdar",female,no
+63,63,"abhirup roy",abhirup,07/11/2023,11/09/2023,kolkata,35,business,"tattoo in the right arm",murder,"anjan roy",male,yes
+64,64,"akash singh",akash,10/05/2023,21/03/2023,pune,30,shopkeeper,"stitch in the left arm",assault,"angan singh",male,no
+65,65,"anshuman raj",anshu,15/10/2023,20/08/2023,bihar,25,student,"mole in left palm",assault,"pragyan raj",male,no
+66,66,"unnati prahar",unnati,25/10/2023,10/08/2023,bihar,25,student,"mole in left palm",scam,"abhishek prahar",female,no
+67,67,"ashish raj",ashish,20/09/2023,19/06/2023,bihar,25,student,"mole in right palm",scam,"mannu raj",male,no
+68,68,"akash raj",akku,20/06/2023,20/02/2023,bihar,30,unemployed,"burn in chest",fraudalent,"manju raj",male,no
+69,69,"biraj joy",biraj,10/06/2023,14/02/2023,delhi,26,factory,"spot in elbow","false allegation","adin joy",male,no
+7,9,"rahul dey",rahul,04/02/2023,04/03/2023,patia,26,doctor,"cut mark in hand",assault,"kashif dey",male,no
+70,70,"raj joy",raj,10/06/2023,14/02/2023,delhi,26,factory,"spot in left arm","false allegation","din joy",male,no
+71,71,"jindalal kumar",jind,20/06/2023,28/02/2023,bihar,21,student,"scar in lower lip",rape,"atijind kumar",male,yes
+72,72,"joy kumar",joy,20/06/2023,28/02/2023,bihar,21,student,"scar in left arm",rape,"ajit kumar",male,yes
+73,73,"lal kumar",lal,20/06/2023,28/02/2023,bihar,30,"corporate job ","mole in the lower lip",rape,"ajit kumar",male,yes
+74,74,"ajay lal",ajay,10/10/2023,12/08/2023,bihar,30,"corporate job ","mole in the upper lip",scam,"kajay lal",male,no
+75,75,"ajani dey",ajani,01/10/2023,11/09/2023,hyderabad,27,professor,"mole in the upper lip",theft,"akash dey",female,no
+76,76,"alok khan",alok,05/10/2023,10/09/2023,bangalore,29,professor,"mole in the cheek",laundering,"akash khan",male,no
+77,77,"noor ansari",noor,06/09/2023,01/07/2023,bangalore,29,professor,"mole in the left arm ring finger",laundering,"ashraf ansari",male,no
+78,78,"jahan ansari",jaan,06/09/2023,01/07/2023,bangalore,21,student,"mole in cheek",laundering,"ashraf ansari",female,no
+79,79,"sendal kafi",sheni,01/09/2023,01/07/2023,manipur,25,housewife,"burn in left hand",laundering,"ajraj kafi",female,no
+8,10,"vikram dey",loid,04/02/2023,04/03/2023,delhi,26,doctor,"cut mark in hand",assault,"jaydev dey",male,no
+80,80,"karishma kaif",karish,21/10/2023,11/10/2023,odisha,29,model,"four fingers in left hand",scam,"parinat kaif",female,no
+9,11,"vikram singh",tim,05/02/2023,05/03/2023,delhi,26,doctor,"cut mark in hand",assault,"rahul singh",male,yes
